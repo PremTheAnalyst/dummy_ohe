@@ -1,2 +1,2 @@
 # dummy_ohe
-dummie variables and one hot encoding
+Dummie Variables and One-Hot-Encoding.
